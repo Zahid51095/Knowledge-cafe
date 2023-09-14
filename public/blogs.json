@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/pPWQr4L/nice-business-desk-black-background.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/WGqG2KR/side-view-business-man-writing-agenda.jpg",
+        "posted_date": "September 14, 2023 (4 days ago)",
+        "reading_time": 30,
+        "hashtags": ["#Adventure", "#Mystery", "#Fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/RhkKThc/flat-lay-work-desktop-with-notebook-keyboard-1.jpg",
+        "title": "The Galactic Odyssey",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/7nXbQ3T/focused-young-man-wearing-eyeglasses-wireless-headphones-sitting-table-listening-webinar-educational.jpg",
+        "posted_date": "September 13, 2023 (4 days ago)",
+        "reading_time": 45,
+        "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RhkKThc/flat-lay-work-desktop-with-notebook-keyboard-1.jpg",
+        "title": "Secrets of the Jungle",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/C7MDS9H/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+        "posted_date": "September 12, 2023 (4 days ago)",
+        "reading_time": 25,
+        "hashtags": ["#Adventure", "#Nature", "#Exploration"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/pPWQr4L/nice-business-desk-black-background.jpg",
+        "title": "The Haunting Mystery House",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/WGqG2KR/side-view-business-man-writing-agenda.jpg",
+        "posted_date": "September 11, 2023 (4 days ago)",
+        "reading_time": 40,
+        "hashtags": ["#Mystery", "#Horror", "#Suspense"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/RhkKThc/flat-lay-work-desktop-with-notebook-keyboard-1.jpg",
+        "title": "Cooking with Flair",
+        "author": "Sarah Anderson",
+        "author_img": "https://i.ibb.co/7nXbQ3T/focused-young-man-wearing-eyeglasses-wireless-headphones-sitting-table-listening-webinar-educational.jpg",
+        "posted_date": "September 10, 2023 (4 days ago)",
+        "reading_time": 20,
+        "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    }
+]
